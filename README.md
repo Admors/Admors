@@ -3,13 +3,12 @@
 </div>
 
 ---
+<div align="center" style="font-size: 18px;">
+    <p>I am a classic computer game player passionate about computer science. 👀🍕</p>
+    <p>You have a project for me, contact me in the discord explaining you need 👈</p>
+</div>
 
-<p align="center">I am a classic computer game player passionate about computer science. 👀🍕</p>
-
-<p align="center">You have a project for me, contact me in the discord explaining you need 👈</p>
-
-## 💻 Languages & Technologies
-
+<h2 align="center"> 💻 Languages & Technologies </h2>
 
 <h3 align="center"> 💼 Student Developer</h3>
 <div align="center">
@@ -32,7 +31,7 @@
 
 </div>
 
-## 📥 Contact
+<h2 align="center">📥 Contact </h2>
 
 <div align="center">
     <a href="https://twitter.com/Admors_">
