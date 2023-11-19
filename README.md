@@ -4,11 +4,9 @@
 
 ---
 
-## 🃏 
-
 <p align="center">I am a classic computer game player passionate about computer science. 👀🍕</p>
 
-<p align="center">You have a project for me, contact me in the discord explaining your need 👈</p>
+<p align="center">You have a project for me, contact me in the discord explaining you need 👈</p>
 
 ## 💻 Languages & Technologies
 
@@ -36,10 +34,16 @@
 
 ## 📥 Contact
 
-<a href="https://twitter.com/Admors_">![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/Admors_)</a>
-<a href="https://admors-srv.ovh">![Website](https://img.shields.io/website?up_message=Online&down_message=Offline&url=https%3A%2F%2Fadmors-srv.ovh&label=Web)</a>
-
----
-
+<div align="center">
+    <a href="https://twitter.com/Admors_">
+        <img src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=x&logoColor=white&style=for-the-badge" alt="Twitter Follow">
+    </a>
+    <a href="https://admors-srv.ovh">
+        <img src="https://img.shields.io/website?up_message=Online&down_message=Offline&url=https%3A%2F%2Fadmors-srv.ovh&label=Website&style=for-the-badge&logoColor=white&logoWidth=20" alt="Website Status">
+    </a>
+    <a href="https://discordapp.com/users/334012117764014080">
+        <img src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&logoWidth=20" alt="Discord">
+    </a>
+</div>
 
 
