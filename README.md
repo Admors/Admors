@@ -21,7 +21,7 @@
 
 </div>
 
-<h3 align="center"> 🤺 Autodidact Developer </h3>
+<h3 align="center"> 🌟 Autodidact Developer </h3>
 <div align="center">
 
 ![SQF](https://img.shields.io/badge/-SQF-66FF66?logo=sqf&logoColor=black&style=for-the-badge)
