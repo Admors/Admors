@@ -4,8 +4,8 @@
 
 ---
 <div align="center" style="font-size: 18px;">
-    <p>I am a classic computer game player passionate about computer science. 👀🍕</p>
-    <p>You have a project for me, contact me in the discord explaining you need 👈</p>
+    <p>I am a classic Student Developer passionate about computer science. 👀🍕</p>
+    <p>Do you have an interesting project ? Contact me and let's create it together. 🐣</p>
 </div>
 
 <h2 align="center"> 💻 Languages & Technologies </h2>
@@ -37,7 +37,7 @@
 
 <div align="center">
     <a href="https://twitter.com/Admors_">
-        <img src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=x&logoColor=white&style=for-the-badge" alt="Twitter Follow">
+        <img src="https://img.shields.io/badge/-Admors-1DA1F2?logo=x&logoColor=white&style=for-the-badge" alt="Twitter Follow">
     </a>
     <a href="https://admors-srv.ovh">
         <img src="https://img.shields.io/website?up_message=Online&down_message=Offline&url=https%3A%2F%2Fadmors-srv.ovh&label=Website&style=for-the-badge&logoColor=white&logoWidth=20" alt="Website Status">
