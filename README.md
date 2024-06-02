@@ -29,7 +29,7 @@
 [![Svelte](https://img.shields.io/badge/-Svelte-ff3e00?logo=svelte&logoColor=white&style=for-the-badge)](https://svelte.dev/)
 [![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06b6d4?logo=tailwind-css&logoColor=white&style=for-the-badge)](https://tailwindcss.com/)
 [![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)](https://nodejs.org/)
-
+[![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge)](https://nextjs.org/)
 
 </div>
 
