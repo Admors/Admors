@@ -31,8 +31,10 @@
 [![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)](https://nodejs.org/)
 [![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge)](https://nextjs.org/)
 
-</div>
 
+
+![Admor's GitHub stats](https://github-readme-stats.vercel.app/api?username=admors&show_icons=true&theme=ayu-mirage)
+</div>
 <h2 align="center">📥 Contact </h2>
 
 <div align="center">
