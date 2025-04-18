@@ -18,6 +18,9 @@
 [![CSS](https://img.shields.io/badge/-CSS-blue?logo=css3&logoColor=white&style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![SQL](https://img.shields.io/badge/-SQL-blue?logo=mysql&logoColor=white&style=for-the-badge)](https://www.mysql.com/)
 [![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=for-the-badge)](https://www.php.net/)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white&style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![C#](https://img.shields.io/badge/-CSharp-239120?logo=c-sharp&logoColor=white&style=for-the-badge)](https://learn.microsoft.com/en-us/dotnet/csharp/)
+[![Kotlin](https://img.shields.io/badge/-Kotlin-7f52ff?logo=kotlin&logoColor=white&style=for-the-badge)](https://kotlinlang.org/)
 
 </div>
 
@@ -25,16 +28,15 @@
 <div align="center">
 
 [![SQF](https://img.shields.io/badge/-SQF-66FF66?logo=sqf&logoColor=black&style=for-the-badge)](https://community.bistudio.com/wiki/SQF_syntax)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white&style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Svelte](https://img.shields.io/badge/-Svelte-ff3e00?logo=svelte&logoColor=white&style=for-the-badge)](https://svelte.dev/)
+[![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)](https://reactjs.org/)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?logo=typescript&logoColor=white&style=for-the-badge)](https://www.typescriptlang.org/)
 [![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06b6d4?logo=tailwind-css&logoColor=white&style=for-the-badge)](https://tailwindcss.com/)
 [![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)](https://nodejs.org/)
 [![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge)](https://nextjs.org/)
 
-
-
 ![Admor's GitHub stats](https://github-readme-stats.vercel.app/api?username=admors&show_icons=true&theme=ayu-mirage)
 </div>
+
 <h2 align="center">📥 Contact </h2>
 
 <div align="center">
@@ -48,5 +50,3 @@
         <img src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&logoWidth=20" alt="Discord">
     </a>
 </div>
-
-
